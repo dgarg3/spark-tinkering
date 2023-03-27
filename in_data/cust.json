@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "firstName": "samnav",
+      "lastName": "garg",
+      "contact": [
+        {
+          "type": "home",
+          "value": "521-123-1234"
+        },
+        {
+          "type": "email",
+          "value": "sam@toogood.com"
+        }
+      ]
+    },
+    {
+      "firstName": "Nav",
+      "lastName": "gargs",
+      "contact": [
+        {
+          "type": "email",
+          "value": "yo@toojix.com"
+        }
+      ]
+    }
+  ]
+}
